@@ -35,6 +35,7 @@
     <li><a href="#ketentuan">Ketentuan</a></li>
     <li><a href="#pengumpulan">Pengumpulan</a></li>
     <li><a href="#penjurian">Penjurian</a></li>
+     <li><a href="#penilaian">Penilaian</a></li>
   </ol>
 </details>
 
@@ -59,11 +60,14 @@ Diharapkan peserta dalam keadaan `SEHAT ROHANI DAN JASMANI` 😁
 
 ### Reward / Hadiah Challange #1
 
-Sebagai bentuk apresiasi, maka 3 orang pemenang di challange ini bakal dapet `FREE COURSE` di next sesi dan spesial direct invitation ke grup WA khusus sesi pembelajaran berikutnya <small><i>(mungkin aja react js atau materi lain yang sangat menyenangkan)</i></small>.
-
+1.Sebagai bentuk apresiasi, maka 3 orang pemenang di challange ini bakal dapet `FREE COURSE` di next sesi dan spesial direct invitation ke grup WA khusus sesi pembelajaran berikutnya <small><i>(mungkin aja react js atau materi lain yang sangat menyenangkan)</i></small>.
+<br/>
+2.story dan mention hasil website buatan pemenang oleh akun <bold>dea.afrizal</bold> di instagram
+<br/>
+3.hasil website pemenang akan dimention dan di spill 1 per 1 lewat konten video tiktok akun dea.afrizal
 <br/>
 <br/>
-<br/>
+<i>dengan begini setidaknya membuka peluang bagi pemenang untuk mendapatkan apresiasi lebih dan trust dari orang (yang mana kita tidak tahu yang nonton itu bos, manajer atau orang-orang penting lainnya). semoga saja menjadi gerbang dan jalan yang cerah kedepannya</i>
 <hr/>
 <br/>
 <br/>
@@ -135,6 +139,11 @@ bakalan ada 6 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
   <li><b>dea (sudut pandang product owner)</b></li>
 </ol>
 
+<br/>
+<br/>
+<hr/>
+
+<div id='penilaian'></div>
 #### point penilaian:
 
 <ul>
