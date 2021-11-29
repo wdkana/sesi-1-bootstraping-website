@@ -132,6 +132,17 @@ bakalan ada 5 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
 5. rifqi (sudut pandang QA/QC)
 6. <b>dea (sudut pandang product owner)</b>
 
+####point penilaian:
+<ul>
+<li>kelengkapan komponen</li>
+<li>penempatan posisi komponen</li>
+<li>perpaduan warna komponen</li>
+<li>kecepatan website</li>
+<li>kemudahan akses pengguna terhadap komponen yang tersedia</li>
+<li>hal goib yang tak ternilai</li>
+</ul>
+
+
 <small>pemenang bakal di wa langsung sama <strong>dea afrizal</strong></small>
 
 *notes:
