@@ -123,8 +123,8 @@ https://forms.gle/uJJYkJVPC2iXWKBm9
 
 ### Penjurian
 <div id='penjurian'></div>
-bakalan ada 5 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
-<ul>
+bakalan ada 6 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
+<ol>
   <li>
   juheri (sudut pandang backend developer)
   </li>
@@ -133,7 +133,7 @@ bakalan ada 5 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
   <li>adi (sudut pandang frontend developer)</li>
   <li>rifqi (sudut pandang QA/QC)</li>
   <li><b>dea (sudut pandang product owner)</b></li>
-</ul>
+</ol>
 
 #### point penilaian:
 
