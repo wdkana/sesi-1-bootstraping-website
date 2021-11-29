@@ -119,11 +119,10 @@ https://forms.gle/uJJYkJVPC2iXWKBm9
 <br/>
 <br/>
 <hr/>
-<br/>
-<br/>
 
-<p id='penjurian'></p>
+
 ### Penjurian
+<p id='penjurian'></p>
 bakalan ada 5 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
 1. juheri (sudut pandang backend developer)
 2. tedi (sudut pandang backend developer)
@@ -131,8 +130,10 @@ bakalan ada 5 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
 4. adi (sudut pandang frontend developer)
 5. rifqi (sudut pandang QA/QC)
 6. <b>dea (sudut pandang product owner)</b>
+<br/>
 
-####point penilaian:
+#### point penilaian:
+
 <ul>
 <li>kelengkapan komponen</li>
 <li>penempatan posisi komponen</li>
