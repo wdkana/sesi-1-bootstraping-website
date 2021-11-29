@@ -115,9 +115,9 @@ Diharapkan peserta dalam keadaan `SEHAT ROHANI DAN JASMANI` 😁
 ### Pengumpulan
 <div id='pengumpulan'></div>
 setelah merasa selesai dengan urusan <b>lucinta luna</b>, silahkan isi google form yang udah disediakan untuk meng-upload projek challange-nya kesini.
-<code>
+<br/>
+<br/>
 https://forms.gle/uJJYkJVPC2iXWKBm9
-</code>
 
 <br/>
 <br/>
