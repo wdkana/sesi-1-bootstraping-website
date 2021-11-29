@@ -144,7 +144,7 @@ bakalan ada 6 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
 <hr/>
 
 <div id='penilaian'></div>
-#### point penilaian:
+<h3>point penilaian:</h3>
 
 <ul>
 <li>kelengkapan komponen</li>
