@@ -55,7 +55,7 @@ Diharapkan peserta dalam keadaan `SEHAT ROHANI DAN JASMANI` 😁
 <br/>
 <br/>
 
-<p id='reward'></p>
+<div id='reward'></div>
 
 ### Reward / Hadiah Challange #1
 
@@ -68,7 +68,7 @@ Sebagai bentuk apresiasi, maka 3 orang pemenang di challange ini bakal dapet `FR
 <br/>
 <br/>
 
-<p id='ketentuan'></p>
+<div id='ketentuan'></div>
 <!-- Ketentuan  -->
 
 ## Ketentuan Challange #1
@@ -109,7 +109,7 @@ Sebagai bentuk apresiasi, maka 3 orang pemenang di challange ini bakal dapet `FR
 <br/>
 
 ### Pengumpulan
-<p id='pengumpulan'></p>
+<div id='pengumpulan'></div>
 setelah merasa selesai dengan urusan <b>lucinta luna</b>, silahkan isi google form yang udah disediakan untuk meng-upload projek challange-nya kesini.
 <code>
 https://forms.gle/uJJYkJVPC2iXWKBm9
@@ -122,15 +122,18 @@ https://forms.gle/uJJYkJVPC2iXWKBm9
 
 
 ### Penjurian
-<p id='penjurian'></p>
+<div id='penjurian'></div>
 bakalan ada 5 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
-1. juheri (sudut pandang backend developer)
-2. tedi (sudut pandang backend developer)
-3. cahyo (sudut pandang frontend developer)
-4. adi (sudut pandang frontend developer)
-5. rifqi (sudut pandang QA/QC)
-6. <b>dea (sudut pandang product owner)</b>
-<br/>
+<ul>
+  <li>
+  juheri (sudut pandang backend developer)
+  </li>
+  <li>tedi (sudut pandang backend developer)</li>
+  <li>cahyo (sudut pandang frontend developer)</li>
+  <li>adi (sudut pandang frontend developer)</li>
+  <li>rifqi (sudut pandang QA/QC)</li>
+  <li><b>dea (sudut pandang product owner)</b></li>
+</ul>
 
 #### point penilaian:
 
