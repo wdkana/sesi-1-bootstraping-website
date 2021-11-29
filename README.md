@@ -155,6 +155,8 @@ bakalan ada 6 juri dari tim gue yang menilai hasil karya dan kreasi peserta:
 <li>hal goib yang tak ternilai</li>
 </ul>
 
+<br/>
+<p>3 pemenang bakalan di invite ke special meet bareng dea afrizal dan tim untuk review hasil karya website buatan pemenang, sekaligus diberikan guide untuk menjadi lebih baik lagi kedepannya</p> 
 
 <small>pemenang bakal di wa langsung sama <strong>dea afrizal</strong></small>
 
